@@ -1,0 +1,19 @@
+
+#main {
+  background-color: #f2f2f2;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#icons ul li a img {
+  border-radius: 15px;
+  width: 100px;
+  height: 100px;
+}
+
+#icons ul li a:hover {
+  position: relative; top: 1px;
+}
